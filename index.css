@@ -1,0 +1,84 @@
+body{
+    margin:10vh;
+    padding:0;
+}
+
+.firstdiv{
+    float: left;
+    font-size: 80px;
+    margin-left: 300px;
+    color: #B09118;
+    
+}
+
+.seconddiv{
+    float: right;
+    font-size: 80px;
+    margin-right: 350px;
+    color: #B09118;
+}
+
+.thirddiv{
+    font-size: 80px;
+    color: #B09118;
+    text-align: center;
+    margin-right: 250px;
+}
+.firstpara{
+    font-size: small;
+    color:black;
+    inline-size: 200px;
+    overflow-wrap: break-word;
+}
+
+.secondpara{
+    font-size: small;
+    color:black;
+    inline-size: 200px;
+    overflow-wrap: break-word;
+}
+
+.thirdpara{
+    font-size: small;
+    color:black;
+    inline-size: 200px;
+    overflow-wrap: break-word;
+    text-align: center;
+    margin-left: 460px;
+}
+
+.fourthpara{
+    font-size: small;
+    color:black;
+    inline-size: 200px;
+    overflow-wrap: break-word;
+    font-weight: lighter;
+}
+
+.sidepara{
+    font-size: small;
+    color:black;
+    inline-size: 200px;
+    overflow-wrap: break-word;
+    font-weight:lighter;
+}
+
+.sidebar{
+    margin-left: 300px;
+    font: 15px Arial, sans-serif;
+    font-size: medium;
+    font-weight: bold;
+}
+
+.fourthdiv{
+    float: right;
+    font-size: 80px;
+    margin-right: 450px;
+    color: #B09118;
+    font-family: 'Lato', sans-serif;
+font-family: 'Libre Franklin', sans-serif;
+font-family: 'Merriweather', serif;
+font-family: 'Mukta', sans-serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Flex', sans-serif;
+}
